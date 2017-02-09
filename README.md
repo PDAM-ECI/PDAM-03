@@ -154,7 +154,7 @@ sección debe inyectar el modulo para el manejo de la camara.
 
 El resultado final debe ser:
 
-![alt text](http://gabo.com.co/pdam/lab-03-01.png)
+![alt text](http://i.giphy.com/l3q2Y8KoFlX3cCzx6.gif)
 
 Para guiarse puede usar la documentación del plugin en [este](http://ngcordova.com/docs/plugins/camera/) link.
 
